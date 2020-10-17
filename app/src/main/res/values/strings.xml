@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="isTrue">"Bundle != null: true"</string>
+    <string name="isFalse">"Bundle != null: false"</string>
+</resources>
